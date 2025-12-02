@@ -11,7 +11,7 @@ Each project includes:
 ### 📌 Project List
 
 - [**Ecommerce Sales Analysis**](https://github.com/Ensya/SQL-Data-Analytic-Projects/tree/main/projects/ecommerce-analysis) 
-- **Inventory & Stock Movement**   
+- [**Inventory & Stock Movement**](https://github.com/Ensya/SQL-Data-Analytic-Projects/tree/main/projects/inventory&stockmovement) 
 - **Marketing Campaign Performance** 
 - **Complex SQL Case Study**   
 
