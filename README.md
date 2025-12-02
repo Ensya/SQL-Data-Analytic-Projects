@@ -4,7 +4,7 @@ This repository showcases my SQL learning journey through structured exercises a
 It includes curated SQL practice, analytics case studies, and end-to-end problem-solving.
 
 ## 📁 Repository Structure
-- **/projects** — Real-world SQL analytics projects
+- [**projects**](https://github.com/Ensya/SQL-Data-Analytic-Projects/tree/main) — Real-world SQL analytics projects
 
 
 ## 🛠 Tools & Environment
